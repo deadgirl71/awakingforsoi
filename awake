@@ -1,4 +1,4 @@
-var multiConfig = {"THISROOM":"awakining","locationColor":"red","locationBackground":"green","currentView":"","viewList":["home","livingroom","bedroom","bathroom","balcony","crystalroom","teaparty","herbal","learning"],"defaultView":"grove"}
+var multiConfig = {"THISROOM":"awakining","locationColor":"red","locationBackground":"green","currentView":"","viewList":["home","livingroom","bedroom","bathroom","balcony","crystalroom","teaparty","herbal","learning"],"defaultView":"home"}
 
 var roomstuff = {"rooms":{
 
