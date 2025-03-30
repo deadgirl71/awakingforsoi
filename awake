@@ -1,15 +1,23 @@
-var multiConfig = {"THISROOM":"awakining","locationColor":"red","locationBackground":"green","currentView":"","viewList":["witches","nexus","moonlit","grove","chambers"],"defaultView":"grove"}
+var multiConfig = {"THISROOM":"awakining","locationColor":"red","locationBackground":"green","currentView":"","viewList":["home","livingroom","bedroom","bathroom","balcony","crystalroom","teaparty","herbal","learning"],"defaultView":"grove"}
 
 var roomstuff = {"rooms":{
 
-"witches":{"rName":"A Witches Hearth","backgroundImage":"https://soi-awaking.hyperchat.com/1Awitchshearthbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/1Awitchshearthtopuse.jpg><br>Welcome to The Witches Hearth<br></center>","roombottom":""},
+"home":{"rName":"A Witches Home","backgroundImage":"https://soi-awaking.hyperchat.com/awitchshomebackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/awitchshometop.jpg<br>Welcome to A witch's Home<br></center>","roombottom":""},
 
-"nexus":{"rName":"The Elemental Nexus","backgroundImage":"https://soi-awaking.hyperchat.com/1TheElementalNexusbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/1TheElementalNexustop.jpg><br>Welcome to The Nexus<br></center>","roombottom":""},
+"livingroom":{"rName":"Livingroom","backgroundImage":"https://soi-awaking.hyperchat.com/livingroombackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/livingroomtop.jpg><br>Welcome to Our Livingroom<BR>A place to gather<BR>speak and learn<br></center>","roombottom":""},
 
-"moonlit":{"rName":"The Moonlit Altar","backgroundImage":"https://soi-awaking.hyperchat.com/1TheMoonlitAltarbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/1TheMoonlitAltartop.jpg><br>Welcome to the Moonlit Altar<br></center>","roombottom":""},
+"bedroom":{"rName":"Bedroom","backgroundImage":"https://soi-awaking.hyperchat.com/bedroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/bedroomtop.jpg><br>Welcome to Our Bedroom<BR>Our private place to share<br></center>","roombottom":""},
 
-"grove":{"rName":"The Sacred Grove","backgroundImage":"https://soi-awaking.hyperchat.com/1Thesacredgrovebackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/1thesacredgrovetop.jpg><br>Welcome to the Sacred Grove<br></center>","roombottom":""},
+"bathroom":{"rName":"Bathroom","backgroundImage":"https://soi-awaking.hyperchat.com/awakingbathback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/awakingbathtop.jpg><br>Welcome to Calm Baths<br></center>","roombottom":""},
 
-"chambers":{"rName":"The Diviners Chamber","backgroundImage":"https://soi-awaking.hyperchat.com/1TheDivinersChamberbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/1TheDivinersChambertop.jpg><br>Welcome to the Sacred Grove<br></center>","roombottom":""}
+"balcony":{"rName":"The Balcony","backgroundImage":"https://soi-awaking.hyperchat.com/balconyback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/balconytop.jpg><br>Welcome to The Balcony<br></center>","roombottom":""},
+
+"crystalroom":{"rName":"The Crystal Room","backgroundImage":"https://soi-awaking.hyperchat.com/crystalroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/crystalroomtop.jpg><br>Welcome to The Crystal Room<br></center>","roombottom":""},
+
+"teaparty":{"rName":"Tea Party","backgroundImage":"https://soi-awaking.hyperchat.com/herbalback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/teapartytop.jpg><br>Welcome to Tea Party<br></center>","roombottom":""}
+
+"herbal":{"rName":"Herbal Room","backgroundImage":"https://soi-awaking.hyperchat.com/1TheDivinersChamberbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/herbtop.jpg><br>Welcome to the Herbal Room<br></center>","roombottom":""}
+
+"learning":{"rName":"Learning Room","backgroundImage":"https://soi-awaking.hyperchat.com/learningroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/learningroomtop.jpg><br>Welcome to the Learning Room<BR>To teach...<BR>To learn...<BR>To know...<br></center>","roombottom":""}
 
 }}
