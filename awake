@@ -12,7 +12,7 @@ var roomstuff = {"rooms":{
 
 "thistle":{"rName":"Thistlewalk Hallow","backgroundImage":"https://soi-awaking.hyperchat.com/balconyback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/Thistlewalkhallowtopuse.png><br>Thistlewalk Hallow<br></center>","roombottom":""},
 
-"seelie":{"rName":"Seelie Glades","backgroundImage":"https://soi-awaking.hyperchat.com/seeliegladeback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/Seeliegladetopouse.png><br>Seelie Glades<br></center>","roombottom":""},
+"seelie":{"rName":"Seelie Glades","backgroundImage":"https://soi-awaking.hyperchat.com/seeliegladeback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #b6b6b6;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/Seeliegladetopouse.png><br>Seelie Glades<br></center>","roombottom":""},
 
 "verdant":{"rName":"Verdant Passage","backgroundImage":"https://soi-awaking.hyperchat.com/verdantpassageback.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/verdantpassagetopuse.png><br>Verdant Passage<br></center>","roombottom":""}
 
