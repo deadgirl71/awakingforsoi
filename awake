@@ -65,7 +65,7 @@ var roomstuff = {
 
     "verdant": {
       "rName": "Verdant Passage",
-      "backgroundImage": "https://soi-awaking.hyperchat.com/newfreyaback.jpg",
+      "backgroundImage": "https://soi-awaking.hyperchat.com/twilightgroveback.png",
       "chatleft": "",
       "underchat": "",
       "roomtop": "<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/verdantpassagetopuse.png><br>Verdant Passage<br></center>",
@@ -83,7 +83,7 @@ var roomstuff = {
 
     "welcome": {
       "rName": "Welcoming Circle",
-      "backgroundImage": "https://soi-awaking.hyperchat.com/awakingbackground.jpg",
+      "backgroundImage": "https://soi-awaking.hyperchat.com/welcomecirclebackground.jpg",
       "chatleft": "",
       "underchat": "",
       "roomtop": "<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-awaking.hyperchat.com/welcomingplacetop.png><br>A Welcoming Space<br>A welcoming place<BR>for A/all who wish<BR>to learn<BR>to leave words<BR>links and such<BR></center>",
